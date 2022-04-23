@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     #installed app
     'hospital',
     'widget_tweaks',
+    'rest_framework',
+    'api',
 ]
 
 MIDDLEWARE = [
